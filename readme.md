@@ -4,9 +4,8 @@ Este é um exercicio de um curso para calcular as gorjetas que são calculadas, 
 
 <strong>Install</strong>
 
-'''
-pip install scikit-fuzzy
-'''
+    - pip install scikit-fuzzy
+
 
 <strong>Regras do projeto</strong>
 
